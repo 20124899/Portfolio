@@ -1307,3 +1307,10 @@ figure.effect-bubba:hover p {
     100% {opacity: 1.0; top:0px;}
 }
 
+.iconbox-desc::-webkit-scrollbar {
+	display:none;
+}
+
+body::-webkit-scrollbar {
+	display:none;
+}
